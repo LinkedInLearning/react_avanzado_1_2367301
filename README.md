@@ -1,7 +1,7 @@
 # React avanzado 1
 This is the repository for the LinkedIn Learning course `React avanzado 1`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-[lil-thumbnail-url]
+![lil-thumbnail-url]
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
