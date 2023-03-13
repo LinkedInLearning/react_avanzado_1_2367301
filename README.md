@@ -8,5 +8,5 @@ Aprende a utilizar React a un nivel avanzado con este contenido. A lo largo del 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/react-avanzado-1
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHg_j_oYoV5Xg/learning-public-crop_675_1200/0/1633352319305?e=1646960400&v=beta&t=3a9F-oiTd_EHndXnSf0He_wLGTyiyqmH4FcFYSw_Jtw
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2367301/2367301-1633352301816-16x9.jpg
 
